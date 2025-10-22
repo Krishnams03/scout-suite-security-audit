@@ -184,7 +184,7 @@ python3 -m http.server 8000
 
 **Note:** Exposing ports to the public internet may increase risk. Use only for short testing periods and remove the server after download.
 
-## 4. Expected findings (sample)
+## 4. Findings (sample)
 
 When you run Scout Suite in this lab environment, possible findings include:
 
@@ -232,6 +232,4 @@ Then delete the group after confirming.
 
 ---
 
-## 7. Repository layout & notes
 
-This repository demonstrates how to set up and run Scout Suite for Azure security auditing. All commands are provided in copy-friendly code blocks for easy execution.
